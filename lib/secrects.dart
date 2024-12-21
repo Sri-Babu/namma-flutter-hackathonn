@@ -1,0 +1,1 @@
+const GEMIN_API = 'AIzaSyBV3CG8cf34yyOGVurMS4Rk80LCs-bWSAw';
